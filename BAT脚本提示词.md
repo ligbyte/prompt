@@ -29,3 +29,20 @@
 git@github.com:ligbyte/prompt.git
 
 帮我写个kotlin方法，发送广播 action为： android.intent.action.launcher， key 为： application，value为：com.stkj.cashier/com.stkj.cashier.app.splash.SplashActivity
+
+
+
+
+
+
+
+
+
+将以下命令1给我完善成一个bat脚本 和一个shell脚本
+git init
+git add --all
+git commit -m "init project"
+git branch -M main
+git remote add origin git@github.com:ligbyte/canteen_weight_aoxin_portrait.git
+git push -u origin main
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
